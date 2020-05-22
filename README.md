@@ -1,3 +1,6 @@
 # -TrackCorona---COVID-19-BY-Live-Map
 
 you can see live map of corona detecting in World connect to real time api server 
+
+<strong>MAP Preview</strong>
+![MAP PREVIEW](https://github.com/Akashsingh310/-TrackCorona---COVID-19-BY-Live-Map/blob/master/map%20Preview.png)
