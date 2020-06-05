@@ -1,6 +1,6 @@
 function updateMap()
 {
-    fetch("https://www.trackcorona.live/api/provinces")
+    fetch("https://www.trackcorona.live/api/cities")
     .then(response => response.json())
     .then(rsp => {
         console.log(rsp.data)
